@@ -20,44 +20,44 @@ body{
 .navbar-container{
     position: sticky;  top: 0;z-index: 2;
   }
-  .banner-container{
+.banner-container{
       background-color: rgb(57, 62, 75);
   }
-  .banner-column{
+.banner-column{
       background-color: rgb(139, 44, 44);
   }
-  .about-container{
+.about-container{
       background-color: #00BDBD;
   }
-  .education-container{
+.education-container{
       background-color: beige;
   }
-  .bg-redtype{
+.bg-redtype{
       background-color: #FB857F;
   }
-  .bg-redtype:hover{color: black!important;}
-  .redtype-color{
+.bg-redtype:hover{color: black!important;}
+.redtype-color{
       color: #FB857F;
   }
-  .circlea{
+.circlea{
       background-color: #FB857F;width: 150px;height: 150px;border-radius: 50%;
   }
-  .project-container{
+.project-container{
       background-color: cadetblue;
   }
-  .inner-form{
+.inner-form{
       background-color: grey;
   }
-  .form-container{
+.form-container{
       background-color: grey;
   }
-  .footer{
+.footer{
       background-color: aqua;
   }
-  .circle{
+.circle{
       background-color: white; width: 60px;height: 60px; border-radius: 50%;
       display: inline-block;font-size: 40px; text-align: center;color: blue;
   }
-  .circle:hover{
+.circle:hover{
       background-color: rgb(22, 21, 21);color: cornflowerblue;
   }
